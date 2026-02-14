@@ -6,7 +6,6 @@ I'm a Computer Engineering student focused on improving my theoretical understan
 **Currently Learning & Working On**
 * **Deep Learning Architectures:** Researching object detection models and system design (currently applied in dental disease analysis).
 * **Bioinformatics:** Studying fundamental algorithms and theoretical concepts for biological data.
-* **C++:** My main focus for this year to deepen my system-level programming knowledge.
 
 **Languages I Use**
 * **Comfortable with:** Python, Java, C#
