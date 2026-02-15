@@ -8,7 +8,7 @@ I'm a Computer Engineering student focused on improving my theoretical understan
 * **Bioinformatics:** Studying fundamental algorithms and theoretical concepts for biological data.
 
 **Languages I Use**
-* **Comfortable with:** Python, Java, C#
+* **Comfortable with:** Python, Java, C
 * **Learning:** C++
 
 **Goals**
